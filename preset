@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "files.associations": {
+        "*.php": "php"
+    },
+    "workbench.colorTheme": "Community Material Theme Darker",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.iconTheme": "material-icon-theme"
+}
